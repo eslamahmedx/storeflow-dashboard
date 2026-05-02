@@ -1,4 +1,4 @@
-# 🚀 StoreFlow Dashboard
+#  StoreFlow Dashboard
 
 <p align="center">
   <b>Modern E-commerce Dashboard built with React + Vite + Recharts</b>
